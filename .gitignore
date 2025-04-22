@@ -1,2 +1,5 @@
 testset.json
 lemmatized.pkl
+test.csv
+glove.6B.50d.txt
+train.csv
